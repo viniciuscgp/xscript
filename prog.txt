@@ -1,0 +1,11 @@
+print "---------"
+print "Calculos:"
+print "---------"
+print "Tangente de 45 Graus:"
+print tan(45)	
+print "Potencia de 2 ^ 3:"
+print pow(2.2, 5)
+print "Arco tangente de 2 em graus:"
+print atan(1)
+print "Fim"
+
